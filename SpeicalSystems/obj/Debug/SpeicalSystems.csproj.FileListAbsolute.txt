@@ -1,0 +1,7 @@
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\SpeicalSystems\bin\Debug\SpeicalSystems.exe.config
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\SpeicalSystems\bin\Debug\SpeicalSystems.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\SpeicalSystems\bin\Debug\SpeicalSystems.pdb
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\SpeicalSystems\obj\Debug\SpeicalSystems.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\SpeicalSystems\obj\Debug\SpeicalSystems.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\SpeicalSystems\obj\Debug\SpeicalSystems.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\SpeicalSystems\obj\Debug\SpeicalSystems.pdb

@@ -1,0 +1,7 @@
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Plus-Sub\bin\Debug\Plus-Sub.exe.config
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Plus-Sub\bin\Debug\Plus-Sub.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Plus-Sub\bin\Debug\Plus-Sub.pdb
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Plus-Sub\obj\Debug\Plus-Sub.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Plus-Sub\obj\Debug\Plus-Sub.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Plus-Sub\obj\Debug\Plus-Sub.pdb
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Plus-Sub\obj\Debug\Plus-Sub.csproj.AssemblyReference.cache

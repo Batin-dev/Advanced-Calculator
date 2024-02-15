@@ -1,0 +1,7 @@
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Mainofcalculator\bin\Debug\Mainofcalculator.exe.config
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Mainofcalculator\bin\Debug\Mainofcalculator.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Mainofcalculator\bin\Debug\Mainofcalculator.pdb
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Mainofcalculator\obj\Debug\Mainofcalculator.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Mainofcalculator\obj\Debug\Mainofcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Mainofcalculator\obj\Debug\Mainofcalculator.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\Mainofcalculator\obj\Debug\Mainofcalculator.pdb

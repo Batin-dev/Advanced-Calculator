@@ -1,0 +1,6 @@
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\KareKupUsAl.csProg\obj\Debug\KareKupUsAl.csProg.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\KareKupUsAl.csProg\bin\Debug\KareKupUsAl.csProg.exe.config
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\KareKupUsAl.csProg\bin\Debug\KareKupUsAl.csProg.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\KareKupUsAl.csProg\bin\Debug\KareKupUsAl.csProg.pdb
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\KareKupUsAl.csProg\obj\Debug\KareKupUsAl.csProg.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\KareKupUsAl.csProg\obj\Debug\KareKupUsAl.csProg.pdb

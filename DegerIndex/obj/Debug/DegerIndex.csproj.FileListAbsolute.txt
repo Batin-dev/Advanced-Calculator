@@ -1,0 +1,7 @@
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\DegerIndex\bin\Debug\DegerIndex.exe.config
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\DegerIndex\bin\Debug\DegerIndex.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\DegerIndex\bin\Debug\DegerIndex.pdb
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\DegerIndex\obj\Debug\DegerIndex.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\DegerIndex\obj\Debug\DegerIndex.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\DegerIndex\obj\Debug\DegerIndex.exe
+C:\Users\Batın Eymen\source\repos\KareKupUsAl.csProg\DegerIndex\obj\Debug\DegerIndex.pdb
